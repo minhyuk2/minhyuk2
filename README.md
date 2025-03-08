@@ -1,4 +1,4 @@
-## Hi there 👋
+## 조민혁의 것허브입니다. 👋
 
 <!--
 **minhyuk2/minhyuk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alsgur2348})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsgur2348)](https://solved.ac/{handle})
