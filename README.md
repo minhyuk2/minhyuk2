@@ -27,7 +27,7 @@ I`m Minhyuk Cho.
  - [UMC](https://umc.makeus.in/) | UMC 프론트엔드 수료 | 23.09 - 24.03
  - [OS](https://www.instagram.com/official_cse_os/profilecard/?igsh=MTJidGh3eHp4azdheQ%3D%3D) | 컴퓨터학부 소모임 OS 회장 | 23.09 - 24.06
  - [SCCC](https://sccc.kr/) | 컴퓨터학부 소모임 SCCC 부원 | 23.09 - current
- - [하라오름] () | 컴퓨터학부 소모임 하라오름 부원 | 20.09 - current
+ - [하라오름] (https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 20.09 - current
 
 
 
