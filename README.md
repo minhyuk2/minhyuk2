@@ -44,12 +44,13 @@ I`m Minhyuk Cho.
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Stidio-3DDC84?style=flat&logo=Androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=Intellijidea&logoColor=white"/>-->
 
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsgur2348)](https://solved.ac/{handle}) 
+
+<!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyuk2&show_icons=true&theme=radical)
 
 
-
-![kyoung-M1N's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoung-M1N&show_icons=true)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoung-M1N&exclude_repo=kyoung-M1N.github.io&layout=compact)](https://github.com/Kyoung-M1N/github-readme-stats)-->    
-
+ 
 <!--
 **minhyuk2/minhyuk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,5 +67,3 @@ Here are some ideas to get you started:
 —>
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsgur2348)](https://solved.ac/{handle}) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyuk2&show_icons=true&theme=radical)
