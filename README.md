@@ -17,13 +17,16 @@ I`m Minhyuk Cho.
 
 ## 🏅Award
 
+ - 🥈컴퓨터학부 소프트웨어 공모전 은상 수상 (2024.8.16)
+ - 🥇CoRE 튜터링 우수튜터 수상 (2023.12.01)
 
 
 ## 🏃‍➡️ Activities
 
  - [SOPT](https://www.sopt.org/) | 36th 서버 YB | 25.03 - current
- - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 13th 부대표 | 25.02 - current
- - [LikeLion at Kwangwoon Univ](https://likelion.university/) | 12th 백엔드 아기사자 | 24.03 - 24.12
+ - [UMC](https://umc.makeus.in/) | UMC 프론트엔드 수료 | 23.09 - 24.03
+ - [OS](https://likelion.university/) | 컴퓨터학부 소모임 OS 회장 | 23.09 - 24.06
+ - [SCCC](https://sccc.kr/) | 컴퓨터학부 소모임 SCCC 부원 | 23.09 - current
 
 
 
@@ -31,9 +34,14 @@ I`m Minhyuk Cho.
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-222222?style=flat&logo=Github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SAP-0175C2?style=flat&logo=sap&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white"/> 
 
@@ -44,13 +52,27 @@ I`m Minhyuk Cho.
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Stidio-3DDC84?style=flat&logo=Androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=Intellijidea&logoColor=white"/>-->
 
+
+## 🏆 Projects
+
+
+
+## 📝 Algorithm
+
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsgur2348)](https://solved.ac/{handle}) 
+
+
+
+
+
 
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyuk2&show_icons=true&theme=radical)
 
 
- 
+
+
+
 <!--
 **minhyuk2/minhyuk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
