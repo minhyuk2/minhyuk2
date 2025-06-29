@@ -33,6 +33,13 @@ I`m Minhyuk Cho.
  - 🥈컴퓨터학부 소프트웨어 공모전 은상 수상 (2024.8.16)
  - 🥇CoRE 튜터링 우수튜터 수상 (2023.12.01)
 
+## 📜 Certifications
+
+- 📘 SQLD (SQL 개발자 자격증) – 한국데이터산업진흥원
+- 🏢 정보처리기사 (Engineer Information Processing) – 한국산업인력공단
+- 🧱 SAP Certified Associate – Back-End Developer – ABAP Cloud (Issued by SAP)
+- 🎨 Adobe Certified Professional in Visual Design Using Adobe Photoshop (Issued by Adobe)
+
 
 ## 🏃‍➡️ Activities
 
