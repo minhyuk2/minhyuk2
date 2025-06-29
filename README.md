@@ -2,6 +2,19 @@
 
 I`m Minhyuk Cho.
 
+<p>
+  <strong>Execution-focused backend developer</strong> with hands-on experience building backend systems using 
+  <strong>Java Spring (MVC & WebFlux)</strong>, <strong>Docker</strong>, and <strong>AWS deployment</strong> 
+  through real-world team projects.<br>
+  Experienced in integrating <strong>AI capabilities</strong> using 
+  <strong>Python (FastAPI)</strong> and <strong>NLP models such as KoBERT</strong>.<br>
+  Strong understanding of <strong>DevOps</strong>, <strong>microservices</strong>, and 
+  <strong>scalable backend architecture</strong>.<br>
+  Proven ability to <strong>collaborate and lead</strong> through 
+  <strong>team-based development</strong> and <strong>open-source contributions</strong>.
+</p>
+
+
 
 
 ## 📞 Contacts
