@@ -54,7 +54,7 @@ I`m Minhyuk Cho.
 
 
 ## 🏆 Projects
-- 
+- ECORUNNER
 - 대장정이
 - 숭민청원
 - Jugger
