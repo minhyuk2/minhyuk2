@@ -20,7 +20,7 @@ I`m Minhyuk Cho.
 ## 📞 Contacts
 
 <a href="https://www.linkedin.com/in/minhyuk-cho/"><img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&link=https://www.linkedin.com/in/minhyuk-cho/"/></a> 
-<a href="mailto:alsgur2920@gmail.com"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:alsgur2920@gmail.com"/></a>  
+<a href="mailto:alsgur2920@gmail.com"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:alsgur2920@gmail.com"/></a> <a href="mailto:alsgur2348@naver.com"><img src="http://img.shields.io/badge/-Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:alsgur2348@naver.com"/></a> 
 
 
 
