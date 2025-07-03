@@ -27,6 +27,9 @@ I`m Minhyuk Cho.
 ## 📚 Education
 
  - [Soongsil Univ](https://ssu.ac.kr/) | 컴퓨터학부 | 20.03 - Current
+ - 2025 글로벌 SW교육 프로그램(SPP), SW Pioneer Program at University of Southern California | 2025.07.06 ~ Current
+
+   
 
 ## 🏅Award
 
@@ -49,9 +52,7 @@ I`m Minhyuk Cho.
  - [OS](https://www.instagram.com/official_cse_os/profilecard/?igsh=MTJidGh3eHp4azdheQ%3D%3D) | 컴퓨터학부 소모임 OS 회장 | 23.09 - 24.06
  - [SCCC](https://sccc.kr/) | 컴퓨터학부 소모임 SCCC 부원 | 23.09 - Current
  - [하라오름](https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 20.09 - Current
-
- - 2025 글로벌 SW교육 프로그램(SPP), SW Pioneer Program at University of Southern California | 2025.07.06 ~ Current
-
+   
 
 ## 🛠️ Skills
 
