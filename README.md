@@ -50,6 +50,7 @@ I`m Minhyuk Cho.
  - [SCCC](https://sccc.kr/) | 컴퓨터학부 소모임 SCCC 부원 | 23.09 - Current
  - [하라오름](https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 20.09 - Current
 
+ - 2025 글로벌 SW교육 프로그램(SPP), SW Pioneer Program at University of Southern California | 2025.07.06 ~ Current
 
 
 ## 🛠️ Skills
