@@ -26,7 +26,7 @@ I`m Minhyuk Cho.
 
 ## 📚 Education
 
- - [Soongsil Univ](https://ssu.ac.kr/) | 컴퓨터학부 | 20.03 - current
+ - [Soongsil Univ](https://ssu.ac.kr/) | 컴퓨터학부 | 20.03 - Current
 
 ## 🏅Award
 
@@ -44,11 +44,11 @@ I`m Minhyuk Cho.
 
 ## 🏃‍➡️ Activities
 
- - [SOPT](https://www.sopt.org/) | 36th 서버 YB | 25.03 - current
+ - [SOPT](https://www.sopt.org/) | 36th 서버 YB | 25.03 - Current
  - [UMC](https://umc.makeus.in/) | UMC 프론트엔드 수료 | 23.09 - 24.03
  - [OS](https://www.instagram.com/official_cse_os/profilecard/?igsh=MTJidGh3eHp4azdheQ%3D%3D) | 컴퓨터학부 소모임 OS 회장 | 23.09 - 24.06
- - [SCCC](https://sccc.kr/) | 컴퓨터학부 소모임 SCCC 부원 | 23.09 - current
- - [하라오름](https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 20.09 - current
+ - [SCCC](https://sccc.kr/) | 컴퓨터학부 소모임 SCCC 부원 | 23.09 - Current
+ - [하라오름](https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 20.09 - Current
 
 
 
@@ -78,8 +78,11 @@ I`m Minhyuk Cho.
 ## 🏆 Projects
 - Jugger ( 2025.03 ~ Current )
 - 대장정이 ( 2024.06 ~ Current )
+- Crame ( 2025.03 ~ Current )
 - 숭민청원 ( 2025.03 ~ 2025.06)
+  : AI 기반의 검색 필터링을 포함한 숭실대학교 청원 애플리케이션
 - ECORUNNER ( 2024.03 ~ 2024.09 )
+  : 사용자에게 플로깅에 대해서 설명해주고, 쉽게 플로깅을 진행할 수 있도록 플로깅 위치를 공유하고 참여를 도모하는 웹 게시판
 
 
 
