@@ -27,7 +27,7 @@ I`m Minhyuk Cho.
 ## 📚 Education
 
  - [Soongsil Univ](https://ssu.ac.kr/) | 컴퓨터학부 | 20.03 - Current
- - 2025 글로벌 SW교육 프로그램(SPP), SW Pioneer Program at University of Southern California | 2025.07.06 ~ Current
+ - 2025 글로벌 SW교육 프로그램(SPP), SW Pioneer Program at University of Southern California | 2025.07.06 ~ 2025.08.01
 
    
 
@@ -36,6 +36,10 @@ I`m Minhyuk Cho.
  - 🥈2024학년도 IT대학 소프트웨어 공모전 은상 수상 (2024.8.16)
  - 🥇2024학년도 2학기 CO-OP SAP 트랙 최우수 장학금 수상
  - 🥇CoRE 튜터링 우수튜터 수상 (2023.12.01)
+ - 🥉2025 USC-IMSC 해커톤 3rd place 수상  <a href="https://www.koreadailyus.com/usc-hackathon-unites-69-students-from-korea-and-u-s-for-ai-road-safety-challenge/" target="_blank">
+🔗 관련 기사 보기
+</a>
+
 
 ## 📜 Certifications
 
