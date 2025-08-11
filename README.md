@@ -82,15 +82,13 @@ I`m Minhyuk Cho.
 
 
 ## 🏆 Projects
-- Jugger ( 2025.03 ~ Current )
+- Jugger ( 2025.03 ~ Current )  https://jugger.usememo.site/
 - 대장정이 ( 2024.06 ~ Current )
 - Crame ( 2025.03 ~ Current )
 - 숭민청원 ( 2025.03 ~ 2025.06)
   : AI 기반의 검색 필터링을 포함한 숭실대학교 청원 애플리케이션
 - ECORUNNER ( 2024.03 ~ 2024.09 )
   : 사용자에게 플로깅에 대해서 설명해주고, 쉽게 플로깅을 진행할 수 있도록 플로깅 위치를 공유하고 참여를 도모하는 웹 게시판
-
-
 
   
 
