@@ -32,13 +32,13 @@ I`m Minhyuk Cho.
    
 
 ## 🏅Award
-
- - 🥈2024학년도 IT대학 소프트웨어 공모전 은상 수상 (2024.8.16)
- - 🥇2024학년도 2학기 CO-OP SAP 트랙 최우수 장학금 수상
  - 🥇CoRE 튜터링 우수튜터 수상 (2023.12.01)
+ - 🥈2024학년도 IT대학 소프트웨어 공모전 은상 수상 (2024.8.16)
+ - 🥇2024학년도 2학기 CO-OP SAP 트랙 최우수 장학금 수상 (2025.01.16)
  - 🥉2025 USC-IMSC 해커톤 3rd place 수상  <a href="https://www.koreadailyus.com/usc-hackathon-unites-69-students-from-korea-and-u-s-for-ai-road-safety-challenge/" target="_blank">
 🔗 관련 기사 보기</a>
- - 🏆2025년도 UNITHON 우수상 수상
+ - 🏆2025년도 UNITHON 우수상 수상 (2025.08.13)
+ - 🏆2025년도 SOLVED CODE FESTIVAL 3등 수상 (2025.08.22)
 
 
 ## 📜 Certifications
@@ -83,14 +83,14 @@ I`m Minhyuk Cho.
 
 ## 🏆 Projects
 - 아이코지 ( 2025.08 ~ 2025.08 ) 
-  : 아이들의 속마음을 애착 인형을 통해서 듣도록 도와주는 웹
+  : 아이들의 속마음을 애착 인형을 통해서 듣도록 도와주는 웹 서비스
   <img width="1920" height="989" alt="스크린샷 2025-08-15 오후 3 08 12" src="https://github.com/user-attachments/assets/e8f7fe52-e2eb-4b2f-8378-083c34fce038" />
 
 - Jugger ( 2025.03 ~ Current )  https://jugger.usememo.site/
   <img width="1920" height="983" alt="스크린샷 2025-08-15 오후 3 05 58" src="https://github.com/user-attachments/assets/033da778-1e47-4340-9f68-3cd68bcd1425" />
 
 - 대장정이 ( 2024.06 ~ Current )
-  : 사용자가 국토대장정을 진행하는 것에 있어서 편의와 재미를 더해주는 앱
+  : 사용자가 국토대장정을 진행하는 것에 있어서 편의와 재미를 더해주는 앱 서비스
 - Crame ( 2025.03 ~ Current )
   
 - 숭민청원 ( 2025.03 ~ 2025.06)
