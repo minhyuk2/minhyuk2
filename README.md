@@ -39,6 +39,7 @@ I`m Minhyuk Cho.
 🔗 관련 기사 보기</a>
  - 🏆2025년도 UNITHON 우수상 수상 (2025.08.13)
  - 🏆2025년도 SOLVED CODE FESTIVAL 3등 수상 (2025.08.22)
+ - 🏆2025년도 제1회 워런톤 최우수상 수상 (2025.08.23)
 
 
 ## 📜 Certifications
