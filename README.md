@@ -83,6 +83,10 @@ I`m Minhyuk Cho.
 
 
 ## 🏆 Projects
+- 비나리 ( 2025.08 ~ 2025.08 )
+  : 동화책을 찍어 수어 영상을 만들어주는 앱 서비스
+  <img width="1194" height="834" alt="메인화면" src="https://github.com/user-attachments/assets/cf82ddf0-ea89-4106-80f8-6a5ced0a7d3a" />
+
 - 아이코지 ( 2025.08 ~ 2025.08 ) 
   : 아이들의 속마음을 애착 인형을 통해서 듣도록 도와주는 웹 서비스
   <img width="1920" height="989" alt="스크린샷 2025-08-15 오후 3 08 12" src="https://github.com/user-attachments/assets/e8f7fe52-e2eb-4b2f-8378-083c34fce038" />
