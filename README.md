@@ -91,8 +91,10 @@ I`m Minhyuk Cho.
 - Jugger ( 2025.03 ~ Current )  https://jugger.usememo.site/
   <img width="1920" height="983" alt="스크린샷 2025-08-15 오후 3 05 58" src="https://github.com/user-attachments/assets/033da778-1e47-4340-9f68-3cd68bcd1425" />
 
-- 대장정이 ( 2024.06 ~ Current )
+- 어디로 ( 2024.06 ~ Current )
   : 사용자가 국토대장정을 진행하는 것에 있어서 편의와 재미를 더해주는 앱 서비스
+<img width="519" height="327" alt="스크린샷 2025-09-15 오전 10 47 22" src="https://github.com/user-attachments/assets/e13c3e6b-8e80-4eee-8fff-544ad33de76a" />
+
 - Crame ( 2025.03 ~ Current )
   
 - 숭민청원 ( 2025.03 ~ 2025.06)
