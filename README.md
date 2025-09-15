@@ -84,6 +84,8 @@ I`m Minhyuk Cho.
 
 
 ## 🏆 Projects
+
+
 - 아이코지 ( 2025.08 ~ 2025.08 ) 
   : 아이들의 속마음을 애착 인형을 통해서 듣도록 도와주는 웹 서비스
   <img width="1920" height="989" alt="스크린샷 2025-08-15 오후 3 08 12" src="https://github.com/user-attachments/assets/e8f7fe52-e2eb-4b2f-8378-083c34fce038" />
@@ -99,6 +101,8 @@ I`m Minhyuk Cho.
   
 - 숭민청원 ( 2025.03 ~ 2025.06)
   : AI 기반의 검색 필터링을 포함한 숭실대학교 청원 애플리케이션
+<img width="215" height="453" alt="스크린샷 2025-09-15 오후 11 58 47" src="https://github.com/user-attachments/assets/b8b7f2df-035a-4af5-9371-5700e5237b1d" />
+
   
 - ECORUNNER ( 2024.03 ~ 2024.09 )
   : 사용자에게 플로깅에 대해서 설명해주고, 쉽게 플로깅을 진행할 수 있도록 플로깅 위치를 공유하고 참여를 도모하는 웹 게시판
@@ -133,6 +137,7 @@ I`m Minhyuk Cho.
 - 비나리 ( 2025.08 ~ 2025.08 )
   : 동화책을 찍어 수어 영상을 만들어주는 앱 서비스
   <img width="1194" height="834" alt="메인화면" src="https://github.com/user-attachments/assets/cf82ddf0-ea89-4106-80f8-6a5ced0a7d3a" />
+  
 
 **minhyuk2/minhyuk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
