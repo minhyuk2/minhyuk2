@@ -32,7 +32,7 @@ I`m Minhyuk Cho.
    
 
 ## 🏅Award
- - 🥇CoRE 튜터링 우수튜터 수상 (2023.12.01)
+ - 🥇CoRE 튜터링 우수튜터 수상 (2024.01.15)
  - 🥈2024학년도 IT대학 소프트웨어 공모전 은상 수상 (2024.8.16)
  - 🥇2024학년도 2학기 CO-OP SAP 트랙 최우수 장학금 수상 (2025.01.16)
  - 🥉2025 USC-IMSC 해커톤 3rd place 수상  <a href="https://www.koreadailyus.com/usc-hackathon-unites-69-students-from-korea-and-u-s-for-ai-road-safety-challenge/" target="_blank">
