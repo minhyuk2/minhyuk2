@@ -95,6 +95,8 @@ I`m Minhyuk Cho.
 
 - 어디로 ( 2024.06 ~ Current )
   : 사용자가 국토대장정을 진행하는 것에 있어서 편의와 재미를 더해주는 앱 서비스
+
+https://m.onestore.co.kr/v2/ko-kr/app/0001002351
 <img width="519" height="327" alt="스크린샷 2025-09-15 오전 10 47 22" src="https://github.com/user-attachments/assets/e13c3e6b-8e80-4eee-8fff-544ad33de76a" />
 
 - Crame ( 2025.03 ~ Current )
