@@ -38,7 +38,7 @@ I`m Minhyuk Cho.
  - 🥉2025 USC-IMSC 해커톤 3rd place 수상  <a href="https://www.koreadailyus.com/usc-hackathon-unites-69-students-from-korea-and-u-s-for-ai-road-safety-challenge/" target="_blank">
 🔗 관련 기사 보기</a>
  - 🏆2025년도 스파르탄 위닝 창업 캠프 -숭실대학교 교내 연합 해커톤, UNITHON- 우수상 수상 (2025.08.13)
- - 🏆2025년도 SOLVED CODE FESTIVAL 3등 수상 (2025.08.22)
+ - 🏆2025년도 SOLVED CODE FESTIVAL 우수상 수상 (2025.08.22)
  - 🏆2025년도 제1회 워런톤 최우수상 수상 (2025.08.23)
  - 🏆제 15회 숭실 캡스톤디자인 경진대회 장려상 수상 ( 2025.10.01 )
 
